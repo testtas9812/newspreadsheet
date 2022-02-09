@@ -14,5 +14,3 @@ postRun:
         - node --version
 configFile: "./test/mocha.opts"
 version: 1.0
-
-//3rd commit
